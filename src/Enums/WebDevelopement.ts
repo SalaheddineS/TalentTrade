@@ -1,0 +1,21 @@
+export enum WebDevelopmentSkill {
+    HTML = 'HTML',
+    CSS = 'CSS',
+    JavaScript = 'JavaScript',
+    ResponsiveDesign = 'Responsive Design',
+    CrossBrowserCompatibility = 'Cross-browser Compatibility',
+    WebAccessibility = 'Web Accessibility',
+    SearchEngineOptimization = 'Search Engine Optimization',
+    PerformanceOptimization = 'Performance Optimization',
+    ContentManagementSystems = 'Content Management Systems',
+    ServerAdministration = 'Server Administration',
+    VersionControl = 'Version Control',
+    Testing = 'Testing',
+    Debugging = 'Debugging',
+    WebFrameworks = 'Web Frameworks',
+    MobileDevelopment = 'Mobile Development',
+    SinglePageApplications = 'Single Page Applications',
+    ProgressiveWebApps = 'Progressive Web Apps',
+    WebAssembly = 'Web Assembly',
+  }
+  
